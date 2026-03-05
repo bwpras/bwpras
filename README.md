@@ -1,7 +1,6 @@
-👋 Hi, I’m Becks
+👋 Hi,
 
-In this pages im going to write about my project, research, and hobbies. Project and research seems a bit difficult to talk for a starting point, 
-so I will try to elaborate more about my hobbies in FPV drone (and because its fun). 
+In this pages im going to write about my project, research, and hobbies.
 
 So lets begin with my setup in FPV
 - Frame   : IFlight XL 5 from banggood
@@ -15,9 +14,3 @@ So lets begin with my setup in FPV
 - Googles : Eachine EV 800 DM (because it fits with my glasses) with ORT dual shield
 
 Looking to upgrades.. slowly but surely 
-
-
-<!---
-bwpras/bwpras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
