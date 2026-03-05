@@ -1,16 +1,16 @@
-👋 Hi,
+👋 Hi, I'm a mechanical engineer graduating in March 2026 with an M.Sc. in Mechanical Engineering (Mechatronics) at Politecnico di Milano. Experienced in mechanical system design, CAD, prototype development, system integration, and data-driven diagnostics for safety-critical systems. Background in Aerospace engineering, UAV design, and FEM structural analysis.
 
 In this pages im going to write about my project, research, and hobbies.
 
-So lets begin with my setup in FPV
-- Frame   : IFlight XL 5 from banggood
-- FC      : Matek F405 STD with PDB 
-- Motor   : Racerstar BR2205 2300kV
-- ESC     : FVT Littlebee 30A with Dshot Modded (Dshot300)
+So lets begin with my interest in FPV drone, right now this is my setup (2021):
+- Frame   : IFlight XL 5
+- FC      : HSKRC F722
+- Motor   : T-Motor 2306 2300kV
+- ESC     : HSKRC 4 in 1 ESC 60A
 - Camera  : Caddx Ratel Starlight
-- VTX     : AKK FX2 Ultimate 25/200/600/800 mW with TBS Triumph Pro Antenna
+- VTX     : Speedybee VTX
 - RX      : ExpressLRS 2.4Ghz EP 1 Receiver
 - TX      : Jumper T12 Pro with Express LRS 2.4Ghz Happymodel
-- Googles : Eachine EV 800 DM (because it fits with my glasses) with ORT dual shield
+- Googles : Skyzone O4L
 
-Looking to upgrades.. slowly but surely 
+My research interests include: VTOL UAV Design, Applied Machine Learning, and Autonomous Vehicle
